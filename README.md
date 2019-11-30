@@ -1,5 +1,7 @@
 # FIN_TECH_EZ_SQL
 SQL queries designed for Fin-Tech Business applications
+
+
 CREATE DATABASE testDB;
 GO
 
