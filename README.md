@@ -1,4 +1,4 @@
-# FIN_TECH_EZ_SQL
+# FIN_TECH_EZ_TSQL
 SQL queries designed for Fin-Tech Business applications
 
 
